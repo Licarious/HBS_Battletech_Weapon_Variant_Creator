@@ -1,4 +1,4 @@
-#Weapon Type,Name (Used to differenchiate upgrades if now manufacture is set),Varient Level (number of + or - for varient),Cost (Multtiplier),Rarity Additon (Additional),Additional Shots When Fired,Critical Chance Multiplier (Additional),Damage (Additional),Stability Damage (Additional),Accuracy (Additional),Heat Generated (Additional),Heat Damage (Additional),Tons (Additional),Slots (Additional),Projectiles Per Shot (Additional),Evasion Pips Ignored (Additional),Manufacturer
+#Weapon Type,Name (Used to differentiate upgrades if now manufacture is set),Variant Level (number of + or - for variant),Cost (Multiplier),Rarity Addition (Additional),Additional Shots When Fired,Critical Chance Multiplier (Additional),Damage (Additional),Stability Damage (Additional),Accuracy (Additional),Heat Generated (Additional),Heat Damage (Additional),Tons (Additional),Slots (Additional),Projectiles Per Shot (Additional),Evasion Pips Ignored (Additional),Manufacturer
 MachineGun,A,1,1.5,,5,,,,,,,,,,,
 MachineGun,B,1,1.5,,,0.25,,,,,,,,,,
 MachineGun,A,2,2,,5,,,,,,,,,,,
